@@ -2850,3 +2850,9 @@
 - Bio: Third Year undergrad pursuing B.tech in Electronics and communication Engineering
 - GitHub: [op-amateur](https://github.com/op-amateur)
 
+#### Name: [Anurag Vishwakarma](https://github.com/vishanurag)
+
+- Place: Gwalior, Madhya Pradesh, India
+- Bio: Third Year student pursuing Diploma in Computer Science & Engineering from Dr. B.R. Ambedkar Polytechnic College, Gwalior.
+- GitHub: [op-amateur](https://github.com/vishanurag)
+
